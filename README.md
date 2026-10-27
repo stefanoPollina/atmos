@@ -380,4 +380,4 @@ Issues and pull requests are welcome.
 
 ## Credits
 
-*Author / credits: Stefano.*
+*Author / credits: S t e f a n o*
