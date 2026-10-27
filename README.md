@@ -1,4 +1,4 @@
-# CONTINUUM KINETIC
+# KINETIC ATMOS
 
 **A browser music workstation in a single HTML file — hybrid synth, 8-layer Atmos pad synth, piano roll, rhythm sequencer, Break Science slicer, rhythmic noise gate and a Supabase sample library, all on the Web Audio API.**
 
