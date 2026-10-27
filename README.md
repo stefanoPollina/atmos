@@ -376,8 +376,8 @@ Issues and pull requests are welcome.
 
 ## License
 
-*No license has been chosen yet.* Add a `LICENSE` file before publishing.
+*No license has been chosen yet.*
 
 ## Credits
 
-*Author / credits: add your name here.*
+*Author / credits: Stefano.*
